@@ -1,10 +1,15 @@
-<h3 align="center">A passionate Android developer from Pakistan</h3>
+<h3 align="center">Hi there 👋, I am Hammad Rafiq</h3>
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Jetpack Compose, Kotlin, Android**
 
 - 📫 How to reach me **hammadrfq3@gmail.com**
 
-- ⚡ Fun fact **Sometimes a funny dev 😂**
+<p align="left">
+I’m currently working on Jetpack Compose
+</p>
+<p align="left">
+I’m looking to collaborate on Jetpack Compose and other Android projects
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
