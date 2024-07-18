@@ -1,17 +1,19 @@
-<h3 align="center">Hi there 👋, I'm Hammad Rafiq</h3>
-💬 Ask me about Jetpack Compose, Kotlin, Android
-📫 How to reach me: hammadrfq3@gmail.com
+<h3 align="center">Hi there 👋, I am Hammad Rafiq</h3>
+
+- 💬 Ask me about **Jetpack Compose, Kotlin, Android**
+
+- 📫 How to reach me **hammadrfq3@gmail.com**
+
 <p align="left">
-I am a passionate Android developer with 4 years of experience, currently focusing on Jetpack Compose. My expertise lies in building intuitive and robust Android applications using modern development practices.
+I’m currently working on Jetpack Compose
 </p>
 <p align="left">
-I’m always looking to collaborate on exciting Jetpack Compose and other Android projects. If you have an idea or project that you'd like to work on together, feel free to reach out!
+I’m looking to collaborate on Jetpack Compose and other Android projects
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imhammadrafiq" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imhammadrafiq" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/imhammadrafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imhammadrafiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +24,6 @@ I’m always looking to collaborate on exciting Jetpack Compose and other Androi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadrfq3&show_icons=true&locale=en" alt="hammadrfq3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadrfq3&" alt="hammadrfq3" /></p>
+
+
+I want you to make it look more beautiful and also write more description
